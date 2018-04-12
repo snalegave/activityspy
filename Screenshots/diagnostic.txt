@@ -1,0 +1,13 @@
+04-12 11:30:34.175 10244-10244/? I/art: Late-enabling -Xcheck:jni
+04-12 11:30:34.295 10244-10244/edu.washington.snalegave.activityspy W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+04-12 11:30:34.319 10244-10244/edu.washington.snalegave.activityspy I/MainActivity: onCreate fired
+04-12 11:30:34.497 10244-10244/edu.washington.snalegave.activityspy I/MainActivity: onStart fired
+04-12 11:30:34.498 10244-10244/edu.washington.snalegave.activityspy I/MainActivity: onResume fired
+04-12 11:30:34.518 10244-10282/edu.washington.snalegave.activityspy D/OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+04-12 11:30:34.535 10244-10244/edu.washington.snalegave.activityspy D/Atlas: Validating map...
+04-12 11:30:34.590 10244-10282/edu.washington.snalegave.activityspy I/Adreno-EGL: <qeglDrvAPI_eglInitialize:379>: QUALCOMM Build: 01/15/15, ab0075f, Id3510ff6dc
+04-12 11:30:34.592 10244-10282/edu.washington.snalegave.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+04-12 11:30:34.616 10244-10282/edu.washington.snalegave.activityspy D/OpenGLRenderer: Enabling debug mode 0
+04-12 11:30:43.888 10244-10244/edu.washington.snalegave.activityspy I/MainActivity: onStart fired
+    onResume fired
+04-12 11:30:46.888 10244-10244/edu.washington.snalegave.activityspy E/MainActivity: We’re going down, Captain!
